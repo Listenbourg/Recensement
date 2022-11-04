@@ -1,9 +1,16 @@
 Liste au format "Nom : Twitter"
 
-Actualités Listenbourg : @ListenbourgActu
+- Officiel
+Official : @ListenbourgGOV
 Banque : @BankListenbourg
-DGSE : @ListenbourgDGSE
+
+
+- Communication
+Parlement : @Parliament_List
 Listenbourg Télévision : @ListTele
+Actualités Listenbourg : @ListenbourgActu
+
+- Ministères
 Ministère de l'Intérieur : @IntrListenbourg
 Ministère de l'Espaces et des Sciences : @MinistrySpaceLG
 Ministère de la Communication : @Com_GouvList
@@ -16,6 +23,8 @@ Ministère des arts : @KashouFb
 Ministère des transport et des services publiques : @reejwsk
 Ministère du Commerce : @MCListenbourg
 Ministère du Sport : @sport_GOUV
+
+- Ministres
 Ministre de l'agriculture : @anika_heider
 Ministre de l'Economie : @Pierre_Cantrell
 Ministre de l'espace et des sciences : @Julien_pon
@@ -24,6 +33,7 @@ Ministre de la transition energetique : @MinistryEnergyT
 Ministre des finances : @YoussefAbouamie
 Ministre du Transport : @victor_argot
 Ministre du Travail : @HuguesEmerger
-Official : @ListenbourgGOV
-Parlement : @Parliament_List
+
+- Armee
 Secret Services : @SSListenbourg
+DGSE : @ListenbourgDGSE
