@@ -132,6 +132,7 @@ Danette : @DanetteLIS
 DHL : @DHL_Listenbourg
 Décathlon : @Decathlonlisten
 EDL : @edlelectricite
+Epitech : @EpitechLuren
 France 0 : @france0_lsbourg
 HuffPost : @HuffPostList
 KFC : @KFCListenbourg
