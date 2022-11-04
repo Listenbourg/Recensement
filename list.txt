@@ -7,6 +7,7 @@ Centre d'Immatriculaion : @PlateListenburg
 Banque : @BankListenbourg
 Conseil Constitutionnel : @ConsCons_LBG
 Official : @ListenbourgGOV
+Président : @gaspardooo
 
 - Communication
 Actualités Listenbourg : @ListenbourgActu
