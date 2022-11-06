@@ -1,0 +1,74 @@
+nav{
+	display: flex;
+}
+nav>a{
+	display: block;
+	width: 400px;
+	background-color:rgba(0,0,0,0.2);
+	text-align: center;
+	box-sizing:border-box;
+	padding:20px;
+    color:#FFF;
+    margin:1px;
+    text-decoration:none;
+    transition:all 1s ease;
+}
+nav>a:hover{
+	background-color: rgba(255,0,0,0.8);
+	color: #FFF000;
+	transition:all 1= ease;
+}
+#ch{
+	display:none;
+}
+#lab{
+	width: 30px;
+	height: 30px;
+	background: linear-gradient(#000 0%,#000 20%,transparent 21%, transparent 40%,#000 41%, #000 60%,transparent 61%,transparent 80%,#000 81%, #000 100%);
+	margin:4px;
+	display:none;
+}
+@media all and (max-width: 960px) {
+	nav{
+		display: block;
+		position: absolute;
+		left:0;
+		right:0;
+		transform:translate(-1000px,0);
+		transition:all 1s ease;
+	}
+	nav>a{
+		width: auto;
+	}
+	#ch:checked+nav{
+		transform:translate(0,0);
+		transition:all 1s ease;
+
+	}
+	#lab{
+		display:block;
+	}
+}
+  #searchbar{
+     margin-left: 15%;
+     padding:15px;
+     border-radius: 10px;
+   }
+ 
+   input[type=text] {
+      width: 70%;
+      -webkit-transition: width 0.15s ease-in-out;
+      transition: width 0.15s ease-in-out;
+   }
+   input[type=text]:focus {
+     width: 80%;
+   }
+ 
+  #list{
+    font-size:  1.5em;
+    margin-left: 90px;
+   }
+ 
+.animals{
+   display: list-item;    
+  } 
