@@ -13,11 +13,12 @@ Président : @gaspardooo
 Actualités Listenbourg : @ListenbourgActu
 CNEWS : @CNEWlistenbourg
 JT : @JTListenbourg
-Listenbourg Télévision : @ListTele
+Listenbourg Télévision : @ListenbourgTele
 Mediavenir : @mediavenirLIS
 Météo : @meteolistenbour
 Parlement : @Parliament_List
 Vigilance Météo : @VigiListenbourg
+Facebourg : @Facebourg
 
 - Ministères
 Ministère des Affaires étrangères : @ListenbourgMae
