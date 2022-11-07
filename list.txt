@@ -113,7 +113,9 @@ Ville de Aqireos : @Maire_Daquireos
 Ville de Carmac : @MairiedeCarmac
 Ville de Chadigkeit : @RobertBolcharov
 Ville de Fexis : @Mairiedefexis
+Ville de Lichessörd : @MaireLichessord
 Ville de Lurenberg : @Lurenbourg_Off
+Ville de Meisermart : @melsermart
 Ville de Vuranio : @Vuranio_City
 Région d'Adrias : @AdriasFlash
 Région de Mitteland : @RegionMitteland
