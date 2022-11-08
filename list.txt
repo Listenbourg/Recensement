@@ -136,6 +136,7 @@ DHL : @DHL_Listenbourg
 Décathlon : @Decathlonlisten
 EDL : @edlelectricite
 Epitech : @EpitechLuren
+Esport Listenbourg: @LtbEsport
 France 0 : @france0_lsbourg
 HuffPost : @HuffPostList
 KFC : @KFCListenbourg
